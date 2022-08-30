@@ -10,3 +10,24 @@ body{
     border-radius: 10px;
     box-shadow: 5px 5px 10px gray ;
 }
+.trans{
+    padding: 10px;
+}
+#transaction{
+    display: none;
+}
+.deposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
+.status{
+    margin: o 20px;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
